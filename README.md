@@ -2,8 +2,7 @@
 ERP for College Database Management INTRODUCTION: College Database Management System is widely used to manage the student & faculty data in colleges. This web application made with Eclipse IDE and Integrated with MYSQL DBMS. TECHNOLOGY STACK USED: High level Language – JAVA Backend Database – MySQL 
 
 MODULES: 
-
-           Following are the modules involves in College Database Management System :
+            Following are the modules involve in College Database Management System :
 
 Admin module :-
            The admin server has entire rights to the working system. Admin is the one who handles all the academic flows such as adding notice, registeration of  staff & students record etc. This access is not allowed for the other users. Admin is responsible for the accountability of the college. 
